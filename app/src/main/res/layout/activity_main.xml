@@ -22,7 +22,7 @@
         android:gravity="center_horizontal"
         android:text="Make everyday decisions easier"
         android:textColor="@android:color/background_dark"
-        android:textSize="24sp"
+        android:textSize="22sp"
         android:textStyle="bold" />
 
     <ImageView
